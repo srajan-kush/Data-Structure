@@ -1,2 +1,2 @@
 # Data structure
-all programe related data structure in concised way 
+all programmes related to  data structure in concised way 
